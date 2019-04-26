@@ -1,0 +1,23 @@
+body,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,p,pre,form,table{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+ul,ol,li{
+    list-style: none;
+}
+i{
+    font-style: normal;
+}
+body{
+    background-color: #DDDDDD;
+    font:14px/1.5 '微软雅黑' ,'宋体';
+    color: #000000;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+}
